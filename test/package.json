@@ -1,0 +1,32 @@
+{
+  "name": "powered-up-test",
+  "version": "1.0.0",
+  "description": "Test powered-up functionality",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idukeem/powered-up.git"
+  },
+  "keywords": [
+    "node",
+    "powered",
+    "up",
+    "poweredup",
+    "boost",
+    "control+"
+  ],
+  "author": "Marcin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idukeem/powered-up/issues"
+  },
+  "homepage": "https://github.com/idukeem/powered-up#readme",
+  "dependencies": {
+    "node-poweredup": "^6.1.0",
+    "ws": "^7.2.3"
+  }
+}
